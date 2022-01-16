@@ -1,6 +1,6 @@
-import 'package:cswages/auth/user/dashboard.dart';
-import 'package:cswages/auth/user/notifications.dart';
-import 'package:cswages/auth/user/profile.dart';
+import 'package:cswages/user/dashboard.dart';
+import 'package:cswages/user/notifications.dart';
+import 'package:cswages/user/profile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

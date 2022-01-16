@@ -1,5 +1,5 @@
 import 'package:cswages/auth/splash.dart';
-import 'package:cswages/auth/user/home.dart';
+import 'package:cswages/user/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
